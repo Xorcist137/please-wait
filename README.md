@@ -2,6 +2,10 @@ PleaseWait.js
 ===========
 A simple library to show your users a beautiful splash page while your application loads.
 
+Documentation and Demo
+---------------------
+Documentation and demo can be found [here](http://pathgather.github.io/please-wait/).
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
